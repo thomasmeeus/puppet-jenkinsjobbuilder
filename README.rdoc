@@ -1,0 +1,5 @@
+= puppet-jenkins-job-builder module
+
+{<img src='https://codex.cegeka.be/jenkins/job/puppet-jenkins-job-builder/badge/icon' />}[https://codex.cegeka.be/jenkins/job/puppet-jenkins-job-builder/]
+
+This is the jenkins-job-builder module.
