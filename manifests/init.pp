@@ -12,5 +12,6 @@
 #
 class jenkins-job-builder {
 
+    include jenkins-job-builder::install
 
 }
