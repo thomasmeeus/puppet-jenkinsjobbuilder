@@ -1,6 +1,6 @@
-# Class: jenkins-job-builder
+# Class: jenkinsjobbuilder
 #
-# This module manages jenkins-job-builder
+# This module manages jenkinsjobbuilder
 #
 # Parameters:
 #
@@ -10,8 +10,8 @@
 #
 # Sample Usage:
 #
-class jenkins-job-builder {
+class jenkinsjobbuilder {
 
-    include jenkins-job-builder::install
+    include jenkinsjobbuilder::install
 
 }

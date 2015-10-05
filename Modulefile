@@ -1,4 +1,4 @@
-name    'cegeka-jenkins-job-builder'
+name    'cegeka-jenkinsjobbuilder'
 version '0.0.1'
 source 'UNKNOWN'
 author 'cegeka'

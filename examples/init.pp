@@ -1,1 +1,1 @@
-include jenkins-job-builder
+include jenkinsjobbuilder
