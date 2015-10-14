@@ -4,7 +4,7 @@ class jenkinsjobbuilder::install {
         ensure => present
     }
 
-    package { ['argparse', 'jenkinsjobbuilder']:
+    package { ['argparse', 'jenkins-job-builder']:
         ensure   => present,
         provider => pip,
         require  => Package['python-pip']
